@@ -14,5 +14,5 @@ I implement node modules, Node.js and Express function .
 
 If you want to test the app you can download the folder.
 You need the lastest NodeJs version to run the application. 
-In the root folder you run in a termminal "node server.js"
+In the root folder you run in a termminal "node app.js"
 You will have a message will notify you in wich port to connect to see the app.
